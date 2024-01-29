@@ -1,0 +1,88 @@
+{
+    "assignments":[
+    {   "title": "Introduction to JavaScript, Part 1",
+        "description": "Working on if, while and for statements.",
+        "date": "Completed on September 6, 2021.",
+        "imagepath":"/images/1.png",
+        "alt": "Assignment 1",
+        "url": "https://CS50C-Week03-32-MichaelBridgema.srjcethanwilde.repl.co"
+  },
+  {   "title": "Introduction to JavaScript, Part 2",
+        "description": "Learning about objects and events.",
+        "date": "Completed on September 13, 2021.",
+        "imagepath":"/images/2.png",
+        "alt": "Assignment 2",
+        "url": "https://CS50C-Week04-25-MichaelBridgema.srjcethanwilde.repl.co"
+  },
+  {   "title": "Introduction to jQuery",
+        "description": "The Introduction to the JQuery Library.",
+        "date": "Completed on September 20, 2021.",
+        "imagepath":"/images/3.png",
+        "alt": "Assignment 3",
+        "url": "https://cs50c-week05-20-michaelbridgema.srjcethanwilde.repl.co/"
+  },
+  {   "title": "Introduction to jQuery UI Library, Part 1",
+        "description": "The Introduction to the JQuery UI Library.",
+        "date": "Completed on September 27, 2021.",
+        "imagepath":"/images/4.png",
+        "alt": "Assignment 4",
+        "url": "https://CS50C-Week06-19-MichaelBridgema.srjcethanwilde.repl.co"
+  },
+  {   "title": "Introduction to jQuery UI Library, Part 2",
+        "description": "The Introduction to the JQuery UI Library.",
+        "date": "Completed on October 4, 2021.",
+        "imagepath":"/images/5.png",
+        "alt": "Assignment 5",
+        "url": "https://CS50C-Week07-18-MichaelBridgema.srjcethanwilde.repl.co"
+  },
+  {   "title": "Map Visualization APIs",
+        "description": "Begin developing enhanced user interfaces by utilizing the capabilities of interactive geographic maps with the OpenLayers or Google Maps API.",
+        "date": "Completed on October 11, 2021.",
+        "imagepath":"images/6.png",
+        "alt": "Assignment 6",
+        "url": "https://cs50c-week08-20-michaelbridgema.srjcethanwilde.repl.co/"
+  },
+  {   "title": "Map-based Mobile App",
+        "description": "Create an interactive experience that incorporates an external JSON file and a map.",
+        "date": "Completed on October 18, 2021.",
+        "imagepath":"/images/7.png",
+        "alt": "Assignment 7",
+        "url": "https://cs50c-week09-16-michaelbridgema.srjcethanwilde.repl.co/"
+  },
+  {   "title": "Data Visualization, Part 1",
+        "description": "A data visualization that incorporates a HTML5 canvas element and geometric shapes.",
+        "date": "Completed on November 1, 2021.",
+        "imagepath":"/images/8.png",
+        "alt": "Assignment 8",
+        "url": "https://cs50c-week11-17-michaelbridgema.srjcethanwilde.repl.co/"
+  },
+  {   "title": "Data Visualization, Part 2",
+        "description": "Using the D3.js JavaScript library together with my custom JavaScript code and an external JSON data file.",
+        "date": "Completed on November 8, 2021.",
+        "imagepath":"/images/9.png",
+        "alt": "Assignment 9",
+        "url": "https://cs50c-week12-16-michaelbridgema.srjcethanwilde.repl.co/"
+  },
+  {   "title": "Phaser JavaScript Library, Part 1",
+        "description": "Using the Phaser JavaScript library together with my custom JavaScript code and external graphic.",
+        "date": " Completed on November 15, 2021.",
+        "imagepath":"/images/10.png",
+        "alt": "Assignment 10",
+        "url": "https://cs50c-week13-17-michaelbridgema.srjcethanwilde.repl.co/" 
+  },
+  {   "title": "Phaser JavaScript Library, Part 2",
+        "description": "Creating my 8-bit game with Phaser3.",
+        "date": "Completed on November 22, 2021.",
+        "imagepath":"/images/11.png",
+        "alt": "Assignment 11",
+        "url": "https://cs50c-week14-16-michaelbridgema.srjcethanwilde.repl.co/"
+  },
+  {   "title": "Introduction to React",
+        "description": "The introduction Vue.js and React browser-based reactive application frameworks.",
+        "date": " Completed on November 27, 2021.",
+        "imagepath":"/images/12.png",
+        "alt": "Assignment 12",
+        "url": "https://CS50C-Week15-18-MichaelBridgema.srjcethanwilde.repl.co"
+  }
+  ]
+  }
